@@ -1,0 +1,37 @@
+header{
+    background-color: rgb(33, 6, 59);
+    text-align: center;
+    color: #CCFF00;
+    padding-bottom: 1%;
+}
+#soleira{
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 20px;
+}
+input{
+    border-radius: 10px;
+}
+.custombutton{
+    background-color: rgb(33, 6, 59);
+    color: #CCFF00;
+    border: #CCFF00 solid 2.5px;
+    border-radius: 10px;
+}
+#salario{
+    margin: 1%;
+    font-size: 15px;
+}
+.result{
+    margin-bottom: 100px;
+    text-align: center;
+}
+footer{
+    background-color: rgb(33, 6, 59);
+    text-align: center;
+    color: #CCFF00;
+    padding: 20px;
+    bottom:0;
+}
