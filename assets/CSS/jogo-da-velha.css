@@ -13,10 +13,9 @@ header{
     justify-content: center;
     border-radius: 15px;
 }
-.col-md-2{
+.col-md-4{
     background-color: #C7A99F;
     border: 1px solid black;
-    border-radius: 20px;
     height: 165px;
 }
 .int{
