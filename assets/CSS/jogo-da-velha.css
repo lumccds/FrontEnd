@@ -1,0 +1,31 @@
+.{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Segoe UI', sans-serif;
+}
+header{
+    margin-bottom: 2%;
+}
+.col-md-6{
+    background-color: #E8BEB2;
+    font-size: 40px;
+    text-align: center;
+    justify-content: center;
+    border-radius: 15px;
+}
+.col-md-2{
+    background-color: #C7A99F;
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 165px;
+}
+.int{
+    border: 2px solid black;
+    text-align: center;
+    justify-content: center;
+    padding-top: 50px;
+    padding-top: 50px;
+}
+.rodape{
+
+}
